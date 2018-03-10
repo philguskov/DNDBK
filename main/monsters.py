@@ -1,6 +1,6 @@
 from telegram import *
 
-updater = Updater(token="TOKEN")
+updater = Updater(token="554767023:AAFSn7jxojOoNeoN8-FfGHwAg2Wz7UmOxF4")
 dispatcher = updater.dispatcher
 
 monsterList = [] #list storing all monsters
